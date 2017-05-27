@@ -1,3 +1,5 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
@@ -137,7 +139,7 @@ a {
     color: grey;
 }
 .center-column__header__drop-down-menu:after {
-    font-family: FontAwesome;
+    font-family: FontAwesome !important;
     content: '\f0d7';
     margin-top: 1px;
     margin-left: 5px;
