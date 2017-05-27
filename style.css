@@ -276,7 +276,6 @@ a {
     content: '';
     width: 50%;
     display: inline-block;
-    top:-1px;
     height: 1px;
     vertical-align: middle;
     background:rgb(224, 62, 125);
