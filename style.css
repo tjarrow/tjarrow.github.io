@@ -294,8 +294,6 @@ a {
 
 .main-post__discussion {
     position: relative;
-    height: auto;
-    width: 100%;
 }
 
 .main-post__discussion p{
@@ -319,7 +317,6 @@ a {
 }
 
 .discussion-info__header-name {
-    float: left;
     margin-top: 22px;
     margin-left: 15px;
     font-weight: 500;
