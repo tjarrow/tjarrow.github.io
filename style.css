@@ -458,3 +458,9 @@ a {
   max-width: 1440px;
   }
 }
+
+@media all and (max-width:800px) {
+  .left-column {
+    display: none;
+  }
+}
